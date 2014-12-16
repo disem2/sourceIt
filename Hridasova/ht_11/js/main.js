@@ -62,7 +62,6 @@
 				recursiveHeadings (data[i], weight + 1);
 				}
 		}
-		return element;
 	}
 
     function simpleValidation() {
